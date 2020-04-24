@@ -1,0 +1,16 @@
+Task #1: Predict Upcoming Bills
+Suppose that you are trying to make day-to-day financial management easier for Americans.
+You have access to the financial transactions of millions of Americans.
+This data includes a customer ID, business ID, transaction date and time, and transaction value.
+You would like to build a tool that identifies the recurring transactions in a person's statement, and helps them plan for
+their bills in the next month.
+Outline how you might approach this problem according to the instructions above.
+
+
+Task #2: Staff Allocation
+Imagine that you manage a large call center, and are trying to optimize staffing across the center.
+You have access to a historical log of call times.
+This data includes the department that a call was placed to, the time the call was made, the total waiting time, and the
+total length of the call.
+You would like to set staff shifts so that you minimize waiting times while keeping costs low.
+Outline how you might approach this problem according to the instructions above.
